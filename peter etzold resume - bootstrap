@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peter S.C. Etzold - Resume</title>
+    <link href="css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="#">Peter S.C. Etzold</a>
+        </div>
+    </nav>
+
+    <header class="bg-primary text-white text-center py-5">
+        <div class="container">
+            <h1>Resume</h1>
+            <p class="lead">Pre-Business Student | NCAA Division I Athlete</p>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <section id="education" class="mb-5">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <strong>Brigham Young University</strong> - Provo, UT<br>
+                    Studying Pre-Business (Aug 2024 - Present)<br>
+                    NCAA Division I, Swim & Dive Scholarship
+                </li>
+                <li>
+                    <strong>German International School Cape Town</strong> - Cape Town, South Africa<br>
+                    Completion of German Abitur (2012 - Dec 2023)<br>
+                    GPA: 3.6 | Scholarship for Athletics and Academics (Grades 10-12)
+                </li>
+            </ul>
+        </section>
+
+        <section id="experience" class="mb-5">
+            <h2>Experience</h2>
+            <ul>
+                <li>
+                    <strong>Brigham Young University Men’s Swim Team</strong> - Provo, UT<br>
+                    Breaststroke & Freestyle / Freshman (Aug 2024 - Present)<br>
+                    <ul>
+                        <li>Attend practice 3-5 hours daily to ensure top performance.</li>
+                        <li>Accept feedback to lead in the pool and manage time effectively.</li>
+                        <li>Coordinate with Coaches, Administration, & Team for success.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>SPORTFIVE</strong> - Berlin, Germany<br>
+                    Sports Marketing Employee (May 2024 - July 2024)<br>
+                    <ul>
+                        <li>Worked with clients like Lidl, Siemens, Motorola during UEFA EURO 2024.</li>
+                        <li>Organized transport and tickets for clients across locations in Germany.</li>
+                        <li>Recognized as a “hard-working and reliable employee” by project manager.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="leadership" class="mb-5">
+            <h2>Leadership & Service</h2>
+            <ul>
+                <li>
+                    <strong>Ladles of Love Soup Kitchen</strong> - Cape Town, South Africa<br>
+                    Soup Kitchen Volunteer (Jun 2023 - Aug 2023)<br>
+                    <ul>
+                        <li>Stocked goods and perishables.</li>
+                        <li>Handled kitchen prep and organization.</li>
+                        <li>Collaborated with co-workers to support operations.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="awards" class="mb-5">
+            <h2>Awards, Skills & Interests</h2>
+            <ul>
+                <li>Model for Sistr.Management (Cape Town) & Pavé Management (Hamburg).</li>
+                <li>Featured in "Male Model Scene" magazine.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <div class="container">
+            <p>&copy; 2024 Peter S.C. Etzold | Hosted on GitHub Pages</p>
+        </div>
+    </footer>
+</body>
+
+</html>
